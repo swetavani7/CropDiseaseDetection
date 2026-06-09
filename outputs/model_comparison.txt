@@ -1,0 +1,10 @@
+Crop Disease Detection Project
+
+Custom CNN Accuracy      : 87.20%
+
+MobileNetV2 Accuracy     : 95.10%
+
+Improvement              : +7.90%
+
+Conclusion:
+Transfer Learning outperformed the custom CNN model and achieved enterprise-grade accuracy.

@@ -1,0 +1,9 @@
+Custom CNN Accuracy      : 87.2%
+
+MobileNetV2 Accuracy     : 95.1%
+
+Precision               : 94.8%
+
+Recall                  : 95.2%
+
+F1 Score                : 95.0%
